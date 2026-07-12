@@ -2,7 +2,7 @@
 
 A marketing agency landing page for **Promovix**: transparent-pricing, multilingual (EN/ES/PT), AI-assisted marketing services — social media, SEO, content, email, and custom strategy.
 
-**Live site:** hosted on Netlify (custom domain)
+**Live site:** [promosvix.com](https://promosvix.com)
 
 ## Highlights
 
